@@ -75,7 +75,6 @@
             schNotification.Name = "schNotification";
             schNotification.Size = new Size(187, 34);
             schNotification.TabIndex = 1;
-            schNotification.Text = "1";
             // 
             // groupBox1
             // 
@@ -211,6 +210,7 @@
             schCell.Name = "schCell";
             schCell.Size = new Size(187, 34);
             schCell.TabIndex = 1;
+            schCell.TextChanged += schCell_TextChanged;
             // 
             // schSms
             // 

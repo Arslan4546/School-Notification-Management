@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "A:\\C# practices\\school_notification\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|a:\\c# practices\\school_notification\\school_notification\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|solutionrelative:school_notification\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|A:\\C# practices\\school_notification\\school_notification\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|solutionrelative:school_notification\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|A:\\C# practices\\school_notification\\school_notification\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|solutionrelative:school_notification\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|A:\\C# practices\\school_notification\\school_notification\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|solutionrelative:school_notification\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|A:\\C# practices\\school_notification\\school_notification\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|solutionrelative:school_notification\\userapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|A:\\C# practices\\school_notification\\school_notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|solutionrelative:school_notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDD7095-F266-4CC8-B745-4061066E056D}|BussinessLayer\\BussinessLayer.csproj|A:\\C# practices\\school_notification\\bussinesslayer\\schoolbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDD7095-F266-4CC8-B745-4061066E056D}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\schoolbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|a:\\c# practices\\school_notification\\school_notification\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|solutionrelative:school_notification\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\school_notification.csproj|A:\\C# practices\\school_notification\\school_notification\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{612483F7-DB56-457B-AFC7-B2518629630E}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFDD7095-F266-4CC8-B745-4061066E056D}|BussinessLayer\\BussinessLayer.csproj|A:\\C# practices\\school_notification\\bussinesslayer\\schoolbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFDD7095-F266-4CC8-B745-4061066E056D}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\schoolbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BFDD7095-F266-4CC8-B745-4061066E056D}|BussinessLayer\\BussinessLayer.csproj|A:\\C# practices\\school_notification\\bussinesslayer\\userbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFDD7095-F266-4CC8-B745-4061066E056D}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\userbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|A:\\C# practices\\school_notification\\school_notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE61EB71-96FD-4CB8-964C-7F2E72495C80}|school_notification\\ApplicationLayer.csproj|solutionrelative:school_notification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,22 +58,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UserApplication.cs [Design]",
               "DocumentMoniker": "A:\\C# practices\\school_notification\\school_notification\\UserApplication.cs",
               "RelativeDocumentMoniker": "school_notification\\UserApplication.cs",
               "ToolTip": "A:\\C# practices\\school_notification\\school_notification\\UserApplication.cs [Design]",
               "RelativeToolTip": "school_notification\\UserApplication.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T05:49:00.832Z"
+              "WhenOpened": "2024-06-02T05:49:00.832Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "SchoolClass.cs",
               "DocumentMoniker": "A:\\C# practices\\school_notification\\ModelLayer\\SchoolClass.cs",
               "RelativeDocumentMoniker": "ModelLayer\\SchoolClass.cs",
@@ -85,20 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "A:\\C# practices\\school_notification\\school_notification\\Form1.cs",
               "RelativeDocumentMoniker": "school_notification\\Form1.cs",
               "ToolTip": "A:\\C# practices\\school_notification\\school_notification\\Form1.cs",
               "RelativeToolTip": "school_notification\\Form1.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAawHYAAAANAAAA",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAawLEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T05:38:34.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "A:\\C# practices\\school_notification\\school_notification\\Program.cs",
               "RelativeDocumentMoniker": "school_notification\\Program.cs",
@@ -106,11 +107,12 @@
               "RelativeToolTip": "school_notification\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T06:11:23.183Z"
+              "WhenOpened": "2024-06-02T06:11:23.183Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "UserDB.cs",
               "DocumentMoniker": "A:\\C# practices\\school_notification\\DataLayer\\UserDB.cs",
               "RelativeDocumentMoniker": "DataLayer\\UserDB.cs",
@@ -122,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UserClass.cs",
               "DocumentMoniker": "A:\\C# practices\\school_notification\\ModelLayer\\UserClass.cs",
               "RelativeDocumentMoniker": "ModelLayer\\UserClass.cs",
@@ -134,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserBussiness.cs",
               "DocumentMoniker": "A:\\C# practices\\school_notification\\BussinessLayer\\UserBussiness.cs",
               "RelativeDocumentMoniker": "BussinessLayer\\UserBussiness.cs",
@@ -154,22 +156,24 @@
               "RelativeToolTip": "school_notification\\UserApplication.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T05:58:58.494Z"
+              "WhenOpened": "2024-06-02T05:58:58.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "A:\\C# practices\\school_notification\\school_notification\\Form1.cs",
               "RelativeDocumentMoniker": "school_notification\\Form1.cs",
               "ToolTip": "A:\\C# practices\\school_notification\\school_notification\\Form1.cs [Design]",
               "RelativeToolTip": "school_notification\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T17:09:36.94Z"
+              "WhenOpened": "2024-06-01T17:09:36.94Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SchoolDB.cs",
               "DocumentMoniker": "A:\\C# practices\\school_notification\\DataLayer\\SchoolDB.cs",
               "RelativeDocumentMoniker": "DataLayer\\SchoolDB.cs",
@@ -181,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "SchoolBussiness.cs",
               "DocumentMoniker": "A:\\C# practices\\school_notification\\BussinessLayer\\SchoolBussiness.cs",
               "RelativeDocumentMoniker": "BussinessLayer\\SchoolBussiness.cs",
@@ -189,11 +193,12 @@
               "RelativeToolTip": "BussinessLayer\\SchoolBussiness.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T18:08:50.631Z"
+              "WhenOpened": "2024-06-01T18:08:50.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "A:\\C# practices\\school_notification\\school_notification\\Form1.cs",
               "RelativeDocumentMoniker": "school_notification\\Form1.cs",

@@ -162,7 +162,7 @@ namespace school_notification
                     schEmail = schEmail.Text,
                     pictureBox1 = image_data
                 };
-               SchoolBussiness.UpdateBusiness(obj);
+                SchoolBussiness.UpdateBusiness(obj);
                 MessageBox.Show("Data Updated Successfully");
                 ResetForm();
             }
@@ -170,6 +170,11 @@ namespace school_notification
             {
                 MessageBox.Show("Error: " + ex.Message);
             }
+
+        }
+
+        private void schCell_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }

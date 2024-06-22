@@ -25,3 +25,4 @@ A:\C# practices\school_notification\school_notification\bin\Debug\net8.0-windows
 A:\C# practices\school_notification\school_notification\obj\Debug\net8.0-windows\Applicat.033E422A.Up2Date
 A:\C# practices\school_notification\school_notification\obj\Debug\net8.0-windows\ApplicationLayer.genruntimeconfig.cache
 A:\C# practices\school_notification\school_notification\obj\Debug\net8.0-windows\ref\ApplicationLayer.dll
+A:\C# practices\school_notification\school_notification\obj\Debug\net8.0-windows\ApplicationLayer.sourcelink.json
