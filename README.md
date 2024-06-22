@@ -14,3 +14,13 @@ The project incorporates various functionalities to enhance usability and effici
  # About Me
 
  My name is Arslan, and I am an expert in C# and visual programming 💻. I have several years of experience in this field and have successfully completed numerous projects 🏆. My expertise lies in the C# programming language, and I have developed complex software solutions using the Visual Studio environment 🛠. I excel in creating efficient, reliable, and scalable applications for my clients 🚀, and my coding skills and problem-solving abilities are highly appreciated 🌟. I am always ready to take on new challenges and continuously strive to enhance my skills 📈.
+
+
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/Arslan4546/School-Notification-Management/blob/main/assets/images/ss1.jpg" alt="Screenshot 1" width="30%" style="margin: 0 40px;"/>
+  <img src="https://github.com/Arslan4546/School-Notification-Management/blob/main/assets/images/ss2.jpg" alt="Screenshot 2" width="30%" style="margin: 0 40px;"/>
+
+</p>
+ 
