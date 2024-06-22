@@ -23,4 +23,12 @@ The project incorporates various functionalities to enhance usability and effici
   <img src="https://github.com/Arslan4546/School-Notification-Management/blob/main/assets/images/ss2.jpg" alt="Screenshot 2" width="30%" style="margin: 0 40px;"/>
 
 </p>
- 
+
+
+ ## Contact Me
+
+LinkedIn:https://www.linkedin.com/in/arslan4546/
+GitHub:https://github.com/Arslan4546
+Facebook:https://www.Facebook.com/Arslan4546
+Email: arslantariq4546@gmail.com
+
