@@ -9,7 +9,6 @@ The project incorporates various functionalities to enhance usability and effici
 2) Dashboard 🖥️: A comprehensive dashboard displaying recent notifications, upcoming events, and quick access to important features.
 3) Notification Management 📨: Tools for creating, editing, and scheduling notifications with options for attaching files and setting priorities.
 4) Distribution Lists 📋: Customizable lists to target specific groups of students or staff members.
-5) History and Archives 🗂️: A repository of past notifications for record-keeping and reference.
 
  # About Me
 
